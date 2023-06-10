@@ -4,7 +4,7 @@
 🎻Sou violinista nas horas vagas...<br>
 <div>
     <a href="https://github.com/AdrianoMedeirosDev">
-    <img height="42%" src="https://github-readme-stats.vercel.app/api?username=AdrianoMedeirosDev&show_icons=true&theme=dark)"/>    
+    <img height="42%" src="https://github-readme-stats.vercel.app/api?username=AdrianoMedeirosDev&show_icons=true&theme=Dark)"/>    
     <img height="42%" src="/>
     <img height="160em" src=""/>
 </div>
